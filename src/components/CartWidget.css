@@ -1,0 +1,18 @@
+.cart-container {
+  position: relative;
+  font-size: 26px;
+  color: #d4af37;
+  cursor: pointer;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -10px;
+  right: -12px;
+  background-color: #b22222;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 12px;
+  font-weight: bold;
+}

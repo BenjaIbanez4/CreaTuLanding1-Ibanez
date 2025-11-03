@@ -1,0 +1,16 @@
+.item-container {
+  text-align: center;
+  margin-top: 60px;
+  color: #333;
+}
+
+.item-container h2 {
+  color: #1a1a1a;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.item-container p {
+  color: #555;
+  font-size: 18px;
+}
